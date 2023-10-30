@@ -1,0 +1,39 @@
+
+<h1> FERRARI</h1>
+<img src =
+<p></p>
+
+
+
+
+
+
+
+
+
+<style>
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: black;
+    margin: 30;
+     padding: 0;
+     height: 100vh;
+  
+     
+}
+
+
+h1 {
+color: white;
+justify-content:left;
+
+}
+
+p {
+color: white;
+justify-content:left;
+
+}
+
+</style>
+
