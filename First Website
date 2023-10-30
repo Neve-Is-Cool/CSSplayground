@@ -1,14 +1,20 @@
-
 <h1> FERRARI</h1>
-<img src =
-<p></p>
+<img src ="ferrari-logo-illustration.jpg">
+<img src ="Charles and carlos hug.jpg">
+<img src ="Charlos with hats.jpg">
+<img src ="Cars.jpg">
+<img src="Charles and Carlos waving.webp">
+<img src="Charlos on bouncy things.avif">
+<img src="Pit.webp">
+<img src="Trophies.jpg">
 
 
 
 
-
-
-
+<h2>Why is Ferrari the best?</h2>
+<p> Because, since the beginning of Formula one, they have been consistently good. With talented members
+    and awesome cars, they are always at the top of their game. Ferrari is elite.
+</p>
 
 
 <style>
@@ -18,16 +24,20 @@ body {
     margin: 30;
      padding: 0;
      height: 100vh;
-  
-     
 }
 
 
 h1 {
 color: white;
 justify-content:left;
-
 }
+
+h2 {
+color: white;
+justify-content:left;
+}
+
+
 
 p {
 color: white;
@@ -35,5 +45,5 @@ justify-content:left;
 
 }
 
-</style>
 
+</style>
