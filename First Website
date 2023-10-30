@@ -1,3 +1,4 @@
+<body>
 <h1> FERRARI</h1>
 <img src ="ferrari-logo-illustration.jpg">
 <img src ="Charles and carlos hug.jpg">
@@ -15,6 +16,22 @@
 <p> Because, since the beginning of Formula one, they have been consistently good. With talented members
     and awesome cars, they are always at the top of their game. Ferrari is elite.
 </p>
+
+<hr>
+ 
+<footer class="footer">
+    <div class="content has-text-centered">
+      <p>
+        <strong>Ferrari</strong> by <a
+          href="https://www.google.com/search?q=neve+gaffaney&source=lmns&bih=866&biw=888&rlz=1C1YTUH_en-gbNZ1012NZ1012&hl=en-US&sa=X&ved=2ahUKEwjzlsfk3tOBAxWWbGwGHZj_BNcQ_AUoAHoECAEQAA">Neve
+          Gaffaney</a>. The source code is licensed to
+        <a
+          href="https://www.ferrari.com/en-NZ">Ferrari</a>.
+        &copy; Ferrari 2023
+      </p>
+    </div>
+  </footer>
+</body>
 
 
 <style>
@@ -42,6 +59,14 @@ justify-content:left;
 p {
 color: white;
 justify-content:left;
+
+}
+
+
+img {
+box-shadow: 0px 0px 10px rgba(255,87,51,1),
+0px 0px 20px rgba(255,87,51,1),
+0px 0px 30px rgba(255,87,51,1);
 
 }
 
