@@ -55,7 +55,7 @@ width: 3.8cm;
 height: 1cm;
 font-size: 2em;
 }
-}
+
 
 h2 {
 color: white;
@@ -75,7 +75,7 @@ box-shadow: 0px 0px 10px rgba(225,153,0),
 0px 0px 20px rgba(225,153,0),
 0px 0px 30px rgba(225,153,0);
 height:700px;
-width:1200px;
+width:1400px;
 
 
 }
