@@ -14,7 +14,9 @@
 
 <h2>Why is Ferrari the best?</h2>
 <p> Because, since the beginning of Formula one, they have been consistently good. With talented members
-    and awesome cars, they are always at the top of their game. Ferrari is elite.
+    and awesome cars, they are always at the top of their game. Although their strategies seem to be
+    rather useless lately, they have good cars that function well. As Enzo Ferrari once said "Ask
+    a child to draw a car, and he will draw it red." Ferrari is elite.
 </p>
 
 <hr>
@@ -45,8 +47,21 @@ body {
 
 
 h1 {
-color: white;
-justify-content:left;
+color: rgba(255,87,51,1);
+border: 1px solid rgba(255,87,51,1);
+text-decoration: none;
+border-radius:5px;
+border-collapse: separate;
+border-spacing: 1em;
+padding: .5em;
+transition: 1s;
+font-weight: bold;
+box-shadow: 0px 0px 10px rgba(255,87,51,1),
+0px 0px 20px rgba(255,87,51,1),
+0px 0px 30px rgba(255,87,51,1);
+width: 3.5cm;
+height: 1cm;
+font-size: 2em;
 }
 
 h2 {
@@ -68,7 +83,7 @@ box-shadow: 0px 0px 10px rgba(255,87,51,1),
 0px 0px 20px rgba(255,87,51,1),
 0px 0px 30px rgba(255,87,51,1);
 height:700px;
-width:1200px
+width:1200px;
 
 }
 
